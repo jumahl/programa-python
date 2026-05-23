@@ -1,4 +1,4 @@
-# Nombre del estudiante: Juan Manuel Hernandez Loaiza - 1006438861
+# Nombre del estudiante: Juan Manuel Hernandez Loaiza
 # Grupo: 213022_225
 # Programa: Ingeniería de Sistemas
 # Código Fuente: autoría propia
