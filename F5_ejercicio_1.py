@@ -3,6 +3,7 @@
 # Programa: Ingeniería de Sistemas
 # Código Fuente: autoría propia
 # Problema #1
+
 '''
 Una matriz almacena datos de sesiones de clientes con el formato:
 [ID Cliente, Duracion (segundos), Eventos Clics].
